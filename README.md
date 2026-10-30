@@ -1,63 +1,56 @@
-<h1 align="center">8BitsSourceCode 👋</h1>
+<h1 align="center">Hi, I'm Mohammed Sarfaraaz 👋</h1>
 
 <p align="center">
-  Final Year CSE Student | Cybersecurity Enthusiast | Software Developer
+  Final Year CSE Student · Software Developer · Cybersecurity Enthusiast
 </p>
 
 ---
 
-### 🧠 About Me
+### About Me
 
-- 🎓 I'm a final year Computer Science Engineering student
-- 🔐 Interested in **Cybersecurity** — always exploring how systems break and how to secure them
-- 💻 Passionate about **Software Development**
-- 🌱 Currently sharpening my skills in Python-based security tools and scripting
-- ⚡ Fun fact: I like automating things I probably didn't need to automate
+- 🎓 Final-year Computer Science Engineering student (graduating 2027)
+- 💻 Focused on backend development — Java, Spring Boot, Python
+- 🔐 Also explore cybersecurity fundamentals — network traffic analysis, web app security tooling
+- 🌱 Currently building out a portfolio of practical, documented projects (see below)
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-</p>
-
-**Areas of Interest**
-- Cybersecurity (network security, ethical hacking basics, security scripting)
-- Software Development
-- Automation & Scripting
-
----
-
-### 📌 What I'm Working On
-
-- Building small Python tools related to security and automation
-- Strengthening core CS fundamentals ahead of placements/internships
-- Learning more about real-world application security
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=8BitsSourceCode&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=8BitsSourceCode&theme=radical" height="165" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=8BitsSourceCode&layout=compact&theme=radical" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
-### 📫 Connect With Me
+### Featured Projects
 
-- LinkedIn: [www.linkedin.com/in/sarfaraaz3st]
-- Email: [workforjack26@gmail.com]
+| Project | What it does |
+|---|---|
+| **Spring Boot REST API** | Task management service with full CRUD operations, layered (Controller/Service/Model) architecture, tested with Postman |
+| **Modular ETL Data Pipeline** | Python pipeline that extracts from a REST API, transforms, and loads into SQLite — retry logic, idempotent writes, unit tested |
+| **Log Analyzer & Intrusion Detector** | Security + ML project analyzing logs to flag anomalous/intrusive activity |
+| **Wireshark Usage Guide** | Practical guide to packet capture and filtering, written for beginners |
+| **Burp Suite Usage Guide** | Companion guide covering web app security testing basics |
+
+*(Pin these on your profile so they show as cards right below this section.)*
 
 ---
 
-<p align="center"><i>Open to internship/entry-level opportunities in Software Development & Cybersecurity 🚀</i></p>
+### Currently
+
+- Strengthening core CS fundamentals (DSA, OOP) ahead of placements
+- Expanding the security-tooling guides into a small documented portfolio
+- Open to internship / entry-level opportunities in Software Development
+
+---
+
+### Connect
+
+- LinkedIn: [linkedin.com/in/mohammed-sarfaraaz](https://www.linkedin.com/in/mohammed-sarfaraaz)
+- Email: sarfaraaz.est@gmail.com
