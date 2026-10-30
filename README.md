@@ -38,7 +38,6 @@
 | **Wireshark Usage Guide** | Practical guide to packet capture and filtering, written for beginners |
 | **Burp Suite Usage Guide** | Companion guide covering web app security testing basics |
 
-*(Pin these on your profile so they show as cards right below this section.)*
 
 ---
 
